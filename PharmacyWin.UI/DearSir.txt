@@ -1,0 +1,32 @@
+﻿
+
+        
+
+         sir. this is working now.
+         do you think this layered structure is ok?
+         if you have any suggestions please make. 
+         sincerely, Tarik, Dhaka, Bangladesh
+         mtariquzzaman@gmail.com
+
+
+
+         CREATE TABLE [dbo].[MED_GENERIC_INFO](
+	    [GENERIC_ID] [int] IDENTITY(1,1) NOT NULL,
+	    [GENERIC_NAME] [varchar](100) NOT NULL,
+	    [SHOW] [bit] NULL)
+
+
+        INSERT INTO [dbo].[MED_GENERIC_INFO]
+           ([GENERIC_NAME]
+           ,[SHOW])
+        VALUES ('Vitamins',1)
+
+
+	    INSERT INTO [dbo].[MED_GENERIC_INFO]
+           ([GENERIC_NAME]
+           ,[SHOW])
+        VALUES ('Minerals',1)
+
+
+
+

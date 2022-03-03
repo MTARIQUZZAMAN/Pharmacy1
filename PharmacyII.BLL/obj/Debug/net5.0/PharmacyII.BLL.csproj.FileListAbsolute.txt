@@ -1,0 +1,15 @@
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\bin\Debug\net5.0\PharmacyII.BLL.deps.json
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\bin\Debug\net5.0\PharmacyII.BLL.dll
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\bin\Debug\net5.0\ref\PharmacyII.BLL.dll
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\bin\Debug\net5.0\PharmacyII.BLL.pdb
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\obj\Debug\net5.0\PharmacyII.BLL.csproj.AssemblyReference.cache
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\obj\Debug\net5.0\PharmacyII.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\obj\Debug\net5.0\PharmacyII.BLL.AssemblyInfoInputs.cache
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\obj\Debug\net5.0\PharmacyII.BLL.AssemblyInfo.cs
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\obj\Debug\net5.0\PharmacyII.BLL.csproj.CoreCompileInputs.cache
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\obj\Debug\net5.0\PharmacyII.BLL.csproj.CopyComplete
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\obj\Debug\net5.0\PharmacyII.BLL.dll
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\obj\Debug\net5.0\ref\PharmacyII.BLL.dll
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\obj\Debug\net5.0\PharmacyII.BLL.pdb
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\bin\Debug\net5.0\PharmacyIII.DLL.dll
+E:\PHARMACYII\PharmacyII\PharmacyII.BLL\bin\Debug\net5.0\PharmacyIII.DLL.pdb

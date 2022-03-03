@@ -1,0 +1,10 @@
+E:\PHARMACYII\PharmacyII\PharmacyIII.DLL\bin\Debug\netstandard2.0\PharmacyIII.DLL.deps.json
+E:\PHARMACYII\PharmacyII\PharmacyIII.DLL\bin\Debug\netstandard2.0\PharmacyIII.DLL.dll
+E:\PHARMACYII\PharmacyII\PharmacyIII.DLL\bin\Debug\netstandard2.0\PharmacyIII.DLL.pdb
+E:\PHARMACYII\PharmacyII\PharmacyIII.DLL\obj\Debug\netstandard2.0\PharmacyIII.DLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\PHARMACYII\PharmacyII\PharmacyIII.DLL\obj\Debug\netstandard2.0\PharmacyIII.DLL.AssemblyInfoInputs.cache
+E:\PHARMACYII\PharmacyII\PharmacyIII.DLL\obj\Debug\netstandard2.0\PharmacyIII.DLL.AssemblyInfo.cs
+E:\PHARMACYII\PharmacyII\PharmacyIII.DLL\obj\Debug\netstandard2.0\PharmacyIII.DLL.csproj.CoreCompileInputs.cache
+E:\PHARMACYII\PharmacyII\PharmacyIII.DLL\obj\Debug\netstandard2.0\PharmacyIII.DLL.dll
+E:\PHARMACYII\PharmacyII\PharmacyIII.DLL\obj\Debug\netstandard2.0\PharmacyIII.DLL.pdb
+E:\PHARMACYII\PharmacyII\PharmacyIII.DLL\obj\Debug\netstandard2.0\PharmacyIII.DLL.csproj.AssemblyReference.cache
